@@ -1,0 +1,4 @@
+#Wed Jun 27 15:07:13 CEST 2018
+base.0=C\:\\Users\\drewr\\Desktop\\Mobile tech\\Drews final Project 270618\\DrewsProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

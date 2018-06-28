@@ -1,0 +1,5 @@
+
+ysquid:S1450"\Remove the "tracksAdapter" field and declare it as a local variable in the relevant methods.(§®ş8«ÚàáÂ,
+wsquid:S1450"YRemove the "tracksList" field and declare it as a local variable in the relevant methods.(«üƒ†8ã‘åâÂ,
+lsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(ÏÛû8ã‘åâÂ,
+Fsquid:S1185e"(Remove this method to simply inherit it.(ÍÙ÷¢8ã‘åâÂ,
